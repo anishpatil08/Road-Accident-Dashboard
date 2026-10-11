@@ -25,3 +25,7 @@ This repository contains a data visualization project analyzing road accident st
 1. Clone the repository:
    ```bash
    git clone https://github.com/anishpatil08/Road-Accident-Dashboard.git
+
+## Tableau Public View
+link - https://public.tableau.com/shared/WFQQXQBPQ?:display_count=n&:origin=viz_share_link
+to view in Tableau Public
